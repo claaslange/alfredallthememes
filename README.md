@@ -6,7 +6,7 @@ Alfred all the memes!
 Open a terminal window. You have to have git installed.
 
 ```
-cd "~/Library/Application Support/Alfred/extensions/scripts/alfredallthememes"
+cd ~/Library/Application\ Support/Alfred/extensions/scripts
 git clone git://github.com/claaslange/alfredallthememes.git
 ```
 
